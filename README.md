@@ -6,6 +6,8 @@ Traditionally, the Fama French data library offers factor data up to a point tha
 
 The entire process, from data loading to factor calculation, has a runtime of approximately 3-4 minutes. This efficiency makes our implementation particularly useful for researchers and traders seeking to construct the Fama French 5 Factors quickly and accurately. Therefore, users can base their decisions on the most up-to-date data, enhancing the effectiveness of their trading strategies.
 
+Due to the difference in data collection between Zacks and Compustat our Fama French Portfolio sample is slightly different from Fama and French's.  
+
 ![image](https://github.com/shantanu2383/FF5_REAL_TIME/assets/123670210/c9f27e77-da5e-40e9-b707-907a470e2011)
 ![image](https://github.com/shantanu2383/FF5_REAL_TIME/assets/123670210/d14f05f1-b939-447a-bfa5-7578147c97c7)
 ![image](https://github.com/shantanu2383/FF5_REAL_TIME/assets/123670210/389fff15-c112-4978-993d-62a53a000b38)
